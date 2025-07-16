@@ -1,27 +1,31 @@
 # ToDo Tracker
 
-Welcome to **ToDo Tracker** – your new best friend for getting things done! This is a super simple, beautifully styled ToDo app built with just HTML and CSS. No logins, no fuss, just your tasks, your way.
+Hey, what’s on your mind today?
+
+Stay sharp. Stay motivated. You’ve got this! 🚀
 
 ## Project Spec
 
-- **Type:** Mini productivity web app
-- **Tech:** 100% HTML & CSS (no JavaScript!)
-- **Features:**
-  - Add, check off, and delete tasks (visually, not functionally – this is a static demo)
-  - Modern, sharp, and catchy design
-  - Relatable, friendly UI text
+A minimalist, stylish ToDo app built with only HTML and CSS. No JavaScript, no frameworks—just pure web basics with a sharp, modern look. The app helps you keep track of your daily tasks and motivates you with relatable, positive messages.
 
-## How to Use
+### Features
+
+- Add and view your daily tasks
+- Mark tasks as done (visually, via CSS)
+- Remove tasks (visually, via CSS)
+- Motivational, relatable UI text
+- Fully responsive and mobile-friendly
+
+## Usage
 
 1. Open `index.html` in your browser.
-2. Add your tasks in your head (or on paper!) – this app is a visual demo.
-3. Check off tasks by clicking the checkboxes (just for fun – they won’t save).
-4. Enjoy the satisfying look of a completed list!
+2. Add your tasks in the input field.
+3. Click the ✖ to visually mark a task as done or remove it.
 
-## Why?
+## Live Demo
 
-Because sometimes, you just want a gorgeous, no-nonsense ToDo list to keep you motivated. Perfect for inspiration, design reference, or as a starting point for your own project.
+Check out the app here: [ToDo Tracker Live](https://hinckley00.github.io/Todo-Tracker/)
 
 ---
 
-_Made with ❤️ and a little AI magic._
+_Stay sharp. Stay motivated. You’ve got this!_
